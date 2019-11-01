@@ -1,10 +1,9 @@
 ---
-title: ES6 Variable Declarations':' const, let
+title: 'ES6 Variable Declarations: const, let'
 date: '2019-04-24'
-thumb_img_path: images/12.jpg
+thumb_img_path: ''
 content_img_path: images/12.jpg
-excerpt: >-
-  Use const when you can. Otherwise, use let, but never use var.
+excerpt: 'Use const when you can. Otherwise, use let, but never use var.'
 template: post
 ---
 
