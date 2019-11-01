@@ -1,5 +1,5 @@
 ---
-title: ES6 Variable Declarations: const, let
+title: ES6 Variable Declarations':' const, let
 date: '2019-04-24'
 thumb_img_path: images/12.jpg
 content_img_path: images/12.jpg

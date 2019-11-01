@@ -1,5 +1,5 @@
 ---
-title: ES6: Template Strings
+title: ES6':' Template Strings
 date: '2019-05-22'
 thumb_img_path: images/12.jpg
 content_img_path: images/12.jpg

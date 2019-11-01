@@ -1,5 +1,5 @@
 ---
-title: ES6: Arrow Functions
+title: ES6':' Arrow Functions
 date: '2019-05-08'
 excerpt: >-
   Putting the fun in Arrow Function

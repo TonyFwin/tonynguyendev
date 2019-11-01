@@ -1,5 +1,5 @@
 ---
-title: ES6: destructuring
+title: ES6':' destructuring
 date: '2019-09-18'
 template: post
 ---
