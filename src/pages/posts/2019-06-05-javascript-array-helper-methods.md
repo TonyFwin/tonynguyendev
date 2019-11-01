@@ -1,8 +1,8 @@
 ---
 title: JavaScript Array Helper Methods
 date: '2019-06-05'
-thumb_img_path: images/12.jpg
-content_img_path: images/12.jpg
+thumb_img_path: ''
+content_img_path: ''
 template: post
 ---
 

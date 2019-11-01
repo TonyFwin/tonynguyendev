@@ -1,5 +1,5 @@
 ---
-title: ES6':' default, rest, and spread.
+title: 'ES6: default, rest, and spread.'
 date: '2019-09-12'
 template: post
 ---
