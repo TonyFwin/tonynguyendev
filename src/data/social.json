@@ -5,6 +5,16 @@
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://www.linkedin.com/in/tonynguyensd/"
+    },
+    {
+      "title": "Github",
+      "icon": "fa-github-square",
+      "url": "https://github.com/TonyFwin"
+    },
+    {
+      "title": "Dev.to",
+      "icon": "fa-dev",
+      "url": "https://dev.to/tonyfwin"
     }
   ]
 }
