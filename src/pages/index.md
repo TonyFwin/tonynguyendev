@@ -24,7 +24,7 @@ sections:
       - label: View Blog
         url: blog/index.html
   - type: contactblock
-    title: Contact Us
+    title: Contact Me
     section_id: contact
     component: ContactBlock
 menus:
