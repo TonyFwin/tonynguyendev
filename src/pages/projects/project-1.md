@@ -6,4 +6,4 @@ thumb_img_path: /images/weather_app.png
 content_img_path: ''
 template: project
 ---
-Small NodeJs and Express application I made to learn Node. You can view the application [here](https://nguyen-application-weather.herokuapp.com/)
+A simple NodeJs and Express application I made while learning Node. The application uses the mapbox.com and darksky.net api's, as well as handlebars.js for a template system.  You can view the application [here](https://nguyen-application-weather.herokuapp.com/)
