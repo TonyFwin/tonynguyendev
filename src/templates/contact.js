@@ -27,6 +27,7 @@ export default class Contact extends React.Component {
                   }
                   <div className="post-content inner-small">
                     {htmlToReact(_.get(this.props, 'pageContext.html'))}
+                    <ContactForm {...this.props} />
                   </div>
                 </article>
               </div>
