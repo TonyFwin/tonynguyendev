@@ -3,6 +3,7 @@ title: JavaScript Array Helper Methods
 date: '2019-06-05'
 thumb_img_path: ''
 content_img_path: ''
+excerpt: For loops are so 2014
 template: post
 ---
 
