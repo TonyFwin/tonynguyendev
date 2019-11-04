@@ -1,6 +1,7 @@
 ---
 title: 'ES6: default, rest, and spread.'
 date: '2019-09-12'
+excerpt: Ellipses aren't just for causing texting anxiety
 template: post
 ---
 
