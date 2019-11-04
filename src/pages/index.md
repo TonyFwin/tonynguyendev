@@ -22,6 +22,9 @@ sections:
     type: portfolioblock
     view_all_text: View All
     view_all_url: portfolio/index.html
+  - component: ContactBlock
+    title: Contact Form
+    type: contactblock
 menus:
   main:
     title: Home
