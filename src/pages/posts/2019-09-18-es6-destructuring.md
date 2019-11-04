@@ -1,6 +1,8 @@
 ---
 title: 'ES6: destructuring'
+subtitle: ''
 date: '2019-09-18'
+excerpt: Learn how to get things out of other things
 template: post
 ---
 
