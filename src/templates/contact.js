@@ -25,10 +25,9 @@ export default class Contact extends React.Component {
                     <img src={safePrefix(_.get(this.props, 'pageContext.frontmatter.img_path'))} alt={_.get(this.props, 'pageContext.frontmatter.title')} />
                   </div>
                   }
-                  {/* <div className="post-content inner-small">
+                  <div className="post-content inner-small">
                     {htmlToReact(_.get(this.props, 'pageContext.html'))}
-                    <ContactForm {...this.props} />
-                  </div> */}
+                  </div>
                 </article>
               </div>
             </div>
