@@ -1,11 +1,13 @@
 import React from "react"
 import PropTypes from "prop-types"
+import icon from '../static/images/favicon';
 
 export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
       <head>
         {props.headComponents}
+        <link rel="icon" href={icon}/>
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
