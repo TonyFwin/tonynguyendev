@@ -2,7 +2,7 @@
 title: Home
 sections:
   - component: HeroBlock
-    content: 'Front end engineer, father of three animals. '
+    content: Front end engineer. Dog and cat dad. Nerd.
     section_id: hero
     title: 'Hi, I''m Tony Nguyen.'
     type: heroblock
