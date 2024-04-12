@@ -8,10 +8,11 @@ menus:
     weight: 4
 template: page
 ---
-HI I'm Tony. I'm a front-end developer based out of Sioux Falls, South Dakota.
+I'm a front end developer based out of the Twin Cities.
 
 > There's nothing more permanent than a temporary hack. - Kyle Simpson
+I work primarily with JavaScript, Vue.JS and TailwindCSS. I have experience with Node, React, PHP, Flutter, Kotlin, and Swift.
 
-I'm a front end developer at Epicosity. I am primarily interested in working with JavaScript, specifically ReactJS and Node.JS. I have a beautiful wife, a dog and two cats. I love gaming, weight lifting and travelling. I'm a big metalhead and hiphophead I love going to shows and seeing people perform.
+I enjoy working with plants, dabbling in guitar, going for a run or lifting some weights. Inspired by hiphop, folk, and metalcore music. Recovering diet soda addict.
 
 _Thank You for reading!_
