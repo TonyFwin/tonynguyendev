@@ -2,9 +2,9 @@
 title: Home
 sections:
   - component: HeroBlock
-    content: Front end engineer. Dog and cat dad. Nerd.
+    content: D﻿ad to one boy, two dogs, one cat, and many plants.
     section_id: hero
-    title: 'Hi, I''m Tony Nguyen.'
+    title: Hi, I'm Tony Nguyen. A Software Engineer form the Twin Cities.
     type: heroblock
   - actions:
       - label: View Blog
@@ -31,4 +31,3 @@ menus:
     weight: 1
 template: home
 ---
-
